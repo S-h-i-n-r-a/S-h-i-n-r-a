@@ -10,5 +10,5 @@ although Rust and Java are up there too.
 
 My least favourite - from what I know - is PHP,
 not a big fan of web development anyway.
-And if I did, I could use ASP.NET or target
-WebAssembly with Rust :)
+But when I do make a web app, I prefer to use 
+ASP.NET or target WebAssembly with Rust :)
