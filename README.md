@@ -18,3 +18,6 @@ I'm most comfortable with C#, although I know my way around Java
 and JavaScript as well.  
 Languages I'm not well acquainted with but pique my interestest are
 Rust and C/C++.  
+
+You can also find me on:  
+- [Nexus Mods](https://www.nexusmods.com/users/198107600)  
