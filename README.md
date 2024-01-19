@@ -20,4 +20,7 @@ Languages I'm not well acquainted with but pique my interestest are
 Rust and C/C++.  
 
 You can also find me on:  
+- [Steam](https://steamcommunity.com/id/ItsShinra/)*
 - [Nexus Mods](https://www.nexusmods.com/users/198107600)  
+
+*: Not accepting friend requests, listed so you can see my work.
